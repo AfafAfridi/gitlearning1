@@ -1,0 +1,24 @@
+#container, h1, #innerDiv1, #innerDiv2, span{
+
+    padding: 10px;
+    margin: 20px;
+}
+#container{
+    border: 1px solid orange;
+}
+
+h1{
+    border: 1px solid pink;
+}
+
+#innerDiv1{
+    border: 1px solid red;
+} 
+
+#innerDiv2{
+    border: 1px solid blue;
+}
+
+span{
+    border: 1px solid black;
+}
